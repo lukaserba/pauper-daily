@@ -1,0 +1,5 @@
+scryfall_raw.json
+pauper_plan.xlsx
+token_refreshed.json
+.DS_Store
+.env
