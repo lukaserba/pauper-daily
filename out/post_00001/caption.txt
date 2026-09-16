@@ -1,0 +1,31 @@
+Limited Edition Alpha (LEA) — 1993
+
+1/ Circle of Protection: White
+{1}{W}
+Enchantment
+{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+
+2/ Craw Wurm
+{4}{G}{G}
+Creature — Wurm
+The most terrifying thing about the Craw Wurm is probably the horrible crashing sound it makes as it speeds through the forest. This noise is so loud it echoes through the trees and seems to come from all directions at once.
+
+3/ Creature Bond
+{1}{U}
+Enchantment — Aura
+Enchant creature
+When enchanted creature dies, this Aura deals damage equal to that creature's toughness to the creature's controller.
+
+4/ Dark Ritual
+{B}
+Instant
+Add {B}{B}{B}.
+
+5/ Death Ward
+{W}
+Instant
+Regenerate target creature.
+
+#mtg #mtgpauper #pauper #magicthegathering #commons #mtgcommunity #mtgart #pauperedh #mtgcz
+
+Unofficial Fan Content permitted under the Wizards of the Coast Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
